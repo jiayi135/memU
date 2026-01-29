@@ -1,5 +1,31 @@
 # Changelog
 
+## [1.3.0](https://github.com/jiayi135/memU/compare/v1.2.0...v1.3.0) (2026-01-29)
+
+
+### Features
+
+* add happened at and extra fields to memory item ([#262](https://github.com/jiayi135/memU/issues/262)) ([77938e9](https://github.com/jiayi135/memU/commit/77938e9c282e1c0eda11088675c35975d85c4ff0))
+* add proactive example ([#268](https://github.com/jiayi135/memU/issues/268)) ([d3d1de1](https://github.com/jiayi135/memU/commit/d3d1de1d9b0f45d9b14479cbaa4462458b172005))
+* add Sealos support agent use case (Track G) ([#255](https://github.com/jiayi135/memU/issues/255)) ([8fbdf3c](https://github.com/jiayi135/memU/commit/8fbdf3c301f74f2aa85604837e00bb305b8801ec))
+* integrate LazyLLM to provide more llm services ([#265](https://github.com/jiayi135/memU/issues/265)) ([c03f639](https://github.com/jiayi135/memU/commit/c03f639677d6c897b75dfe28d0cd92d5b5270957))
+* **integrations:** Add LangGraph Adapter for MemU (Track A) ([#258](https://github.com/jiayi135/memU/issues/258)) ([50b5502](https://github.com/jiayi135/memU/commit/50b5502ebcacd86401f98b1bb7e5a6577fab7126))
+* **llm:** add Grok (xAI) integration ([#179](https://github.com/jiayi135/memU/issues/179)) ([#236](https://github.com/jiayi135/memU/issues/236)) ([1e16309](https://github.com/jiayi135/memU/commit/1e1630948af535f8ed9d608e6c4f9d2748d4ce8e))
+* Openrouter integration as backend provider ([#182](https://github.com/jiayi135/memU/issues/182)) ([cba667a](https://github.com/jiayi135/memU/commit/cba667a56daca5093c9b79a598c7d2ffda813756))
+
+
+### Bug Fixes
+
+* memory type & proactive example ([#272](https://github.com/jiayi135/memU/issues/272)) ([710f14d](https://github.com/jiayi135/memU/commit/710f14d4b171c5cde609a9dc2caf454681ab94b3))
+* proactive examples ([#273](https://github.com/jiayi135/memU/issues/273)) ([603ae12](https://github.com/jiayi135/memU/commit/603ae122b94741bb350656086960c4e2bb868c2a))
+
+
+### Documentation
+
+* multilingual readme ([#271](https://github.com/jiayi135/memU/issues/271)) ([200f47a](https://github.com/jiayi135/memU/commit/200f47a15ff7d05fc435abe1d2cefbb3774548fe))
+* update readme ([#266](https://github.com/jiayi135/memU/issues/266)) ([16ae534](https://github.com/jiayi135/memU/commit/16ae534675a5e0711256a5e2147b9190fd8b2524))
+* update README ([#270](https://github.com/jiayi135/memU/issues/270)) ([b531d39](https://github.com/jiayi135/memU/commit/b531d39e5538449b31cb212aea1deea24e12180f))
+
 ## [1.2.0](https://github.com/NevaMind-AI/memU/compare/v1.1.2...v1.2.0) (2026-01-14)
 
 
